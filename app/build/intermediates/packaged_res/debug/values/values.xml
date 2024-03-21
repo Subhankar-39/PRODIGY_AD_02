@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorBackground">#FBF7F2</color>
+    <color name="ic_launcher_background">#090909</color>
+    <color name="linked_in_btn">#1E92CA</color>
+    <string name="about">About</string>
+    <string name="about_me">Contact me :</string>
+    <string name="app_name">My Notes</string>
+    <string name="note">Notes</string>
+    <style name="Theme.Journal" parent="android:Theme.Material.Light.NoActionBar"/>
+</resources>

@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.swancompany.journal.app-mergeDebugResources-54:/values-night-v8/values-night-v8.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\lenovo\\Desktop\\CodSoft-main\\app\\src\\main\\res\\values-night\\colors.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "49",
+                        "endOffsets": "100"
+                    }
+                }
+            ]
+        }
+    ]
+}
